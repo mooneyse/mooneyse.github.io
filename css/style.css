@@ -1,10 +1,39 @@
 body {
-    background-color: powderblue;
+    background-color: #DDDDDD;
     font-family: verdana;
 }
+
 h1 {
-    color: blue;
+    color: #111111;
+    font-family: verdana;
 }
+
 p {
-    color: red;
+    color: #111111;
+    font-family:verdana;
+}
+
+
+a:link {
+    color: #FFDC00; 
+    background-color: transparent; 
+    text-decoration: none;
+}
+
+a:visited {
+    color: FFDC00;
+    background-color: transparent;
+    text-decoration: none;
+}
+
+a:hover {
+    color: #FFDC00;
+    background-color: transparent;
+    text-decoration: none;
+}
+
+a:active {
+    color: #FFDC00;
+    background-color: transparent;
+    text-decoration: none;
 }
