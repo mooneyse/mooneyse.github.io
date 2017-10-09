@@ -13,6 +13,10 @@ p {
     font-family: Verdana, sans-serif;
 }
 
+ul li {
+    color: #FFFFFF;
+    font-family: Verdana, sans-serif;
+}
 
 a:link {
     color: #FFDC00; 
