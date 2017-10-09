@@ -16,6 +16,7 @@ p {
 ul li {
     color: #FFFFFF;
     font-family: Verdana, sans-serif;
+    list-style-type: square;
 }
 
 a:link {
