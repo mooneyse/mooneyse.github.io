@@ -1,16 +1,16 @@
 body {
-    background-color: #DDDDDD;
-    font-family: verdana;
+    background-color: #AAAAAA;
+    font-family: "verdana";
 }
 
 h1 {
     color: #111111;
-    font-family: verdana;
+    font-family: "verdana";
 }
 
 p {
     color: #111111;
-    font-family:verdana;
+    font-family: "verdana";
 }
 
 
@@ -21,7 +21,7 @@ a:link {
 }
 
 a:visited {
-    color: FFDC00;
+    color: #FFDC00;
     background-color: transparent;
     text-decoration: none;
 }
