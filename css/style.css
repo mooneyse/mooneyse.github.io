@@ -1,9 +1,9 @@
 body {
-    background-color: #FFDC00;
+    background-color: #ECF0F1;
     font-family: Roboto, Verdana, sans-serif;
 }
 
-h1 {
+/*h1 {
     color: #FFFFFF;
     font-family: Roboto, Verdana, sans-serif;
     text-align: center;
@@ -18,39 +18,40 @@ ul li {
     color: #FFFFFF;
     font-family: Roboto, Verdana, sans-serif;
     list-style-type: square;
-}
+}*/
 
 a:link {
-    color: #FFDC00; 
+    color: #1C2833; 
     background-color: transparent; 
     text-decoration: none;
 }
 
 a:visited {
-    color: #FFDC00;
+    color: #1C2833;
     background-color: transparent;
     text-decoration: none;
 }
 
 a:hover {
-    color: #FFDC00;
+    color: #1C2833;
     background-color: transparent;
     text-decoration: none;
 }
 
 a:active {
-    color: #FFDC00;
+    color: #1C2833;
     background-color: transparent;
     text-decoration: none;
 }
 
 div.my_class {
-    background-color: #AAAAAA;
-    color: #FFFFFF;
+    background-color: #FBFCFC;
+    color: #2C3E50;
+    font-family: Roboto, Verdana, sans-serif;
     /*margin: 20px 0 20px 0;*/
     margin-left: 100px;
-    pargin-right: 100px;
+    margin-right: 100px;
     padding: 40px;
-    border-width: 10px;
+    border-width: 50px;
     border-color: #111111;
 }
