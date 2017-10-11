@@ -6,6 +6,7 @@ body {
 h1 {
     color: #FFFFFF;
     font-family: Roboto, Verdana, sans-serif;
+    text-align: center;
 }
 
 p {
@@ -47,5 +48,8 @@ div.my_class {
     background-color: #001F3F;
     color: #FFFFFF;
     margin: 20px 0 20px 0;
-    padding: 20px
+    margin-left: 100px;
+    pargin-right: 100px;
+    padding: 20px;
+    border-left: 5px solid blue;
 }
