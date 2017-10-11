@@ -1,49 +1,43 @@
 body {
-    background-color: #ECF0F1;
+    background-color: #EAF2F8;
     font-family: Roboto, Verdana, sans-serif;
 }
 
-/*h1 {
-    color: #FFFFFF;
-    font-family: Roboto, Verdana, sans-serif;
+h1 {
     text-align: center;
 }
-
-p {
-    color: #FFFFFF;
-    font-family: Roboto, Verdana, sans-serif;
-}*/
 
 ul li {
     list-style-type: square;
 }
 
 a:link {
-    text-decoration: bold;
+    color: #17202A;
+    text-decoration: none;
 }
 
 a:visited {
-    text-decoration: bold;
+    color: #17202A;
+    text-decoration: none;
 }
 
 a:hover {
-    text-decoration: bold;
+    color: #17202A;
+    text-decoration: none;
 }
 
 a:active {
-    text-decoration: bold;
+    color: #17202A;
+    text-decoration: none;
 }
 
 div.my_class {
-    background-color: #EAF2F8;
+    background-color: #FDFEFE;
     color: #17202A;
     font-family: Roboto, Verdana, sans-serif;
-    /*margin: 20px 0 20px 0;*/
     margin-top: 100px;
     margin-bottom: 100px;
     margin-left: 500px;
     margin-right: 500px;
-    padding: 40px;
-/*    border-width: 50px;
-    border-color: #111111;*/
+    padding: 50px;
 }
