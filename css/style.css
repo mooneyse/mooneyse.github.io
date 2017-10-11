@@ -1,21 +1,21 @@
 body {
     background-color: #001f3f;
-    font-family: Verdana, sans-serif;
+    font-family: Roboto, Verdana, sans-serif;
 }
 
 h1 {
     color: #FFFFFF;
-    font-family: Verdana, sans-serif;
+    font-family: Roboto, Verdana, sans-serif;
 }
 
 p {
     color: #FFFFFF;
-    font-family: Verdana, sans-serif;
+    font-family: Roboto, Verdana, sans-serif;
 }
 
 ul li {
     color: #FFFFFF;
-    font-family: Verdana, sans-serif;
+    font-family: Roboto, Verdana, sans-serif;
     list-style-type: square;
 }
 
