@@ -47,9 +47,10 @@ a:active {
 div.my_class {
     background-color: #001F3F;
     color: #FFFFFF;
-    margin: 20px 0 20px 0;
+    /*margin: 20px 0 20px 0;*/
     margin-left: 100px;
     pargin-right: 100px;
-    padding: 20px;
-    border-left: 5px solid blue;
+    padding: 40px;
+    border-width: 10px;
+    border-color: #AAAAAA;
 }
