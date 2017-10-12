@@ -43,7 +43,7 @@ a:active {
     text-decoration: none;
 }
 
-div.my_class {
+div.card {
     background-color: #FDFEFE;
     color: #17202A;
     font-family: Roboto, Verdana, sans-serif;
@@ -54,4 +54,8 @@ div.my_class {
     margin-right: 200px;
     padding: 50px;
     box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+
+div.image {
+    margin: auto;
 }
