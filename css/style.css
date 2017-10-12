@@ -4,11 +4,11 @@ body {
 }
 
 h1 {
-    font: 60px Roboto, Verdana, sans-serif;
+    font: 80px Roboto, Verdana, sans-serif;
     font-variant: small-caps;
     color: #922B21;
     text-align: center;
-    letter-spacing: 2px;
+    letter-spacing: 4px;
 }
 
 h2 {
