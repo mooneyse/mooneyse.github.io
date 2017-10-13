@@ -12,6 +12,7 @@ h1 {
 }
 
 h2 {
+    font-variant: small-caps;
     text-align: center;
 }
 
@@ -53,7 +54,7 @@ div.card {
     background-color: #FDFEFE;
     color: #17202A;
     font-family: Roboto, Verdana, sans-serif;
-    width: 1000px;
+    width: 50%;
     margin-top: 100px;
     margin-bottom: 100px;
     margin-left: auto;
