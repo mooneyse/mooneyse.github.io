@@ -1,3 +1,3 @@
 # GitHub Pages HTML
 
-This repository contains the HTML code for for https://mooneyse.github.io.
+This repository contains HTML and CSS code for for https://mooneyse.github.io.
